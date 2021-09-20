@@ -106,13 +106,6 @@ contract WaifuWorld is ERC721Enumerable, Ownable {
         saleIsActive = newState;
     }
 
-    /*
-     * Pause sale if active, make active if paused
-     */
-    function setConsulationState(bool newState) public onlyOwner {
-        isConsulationActive = newState;
-    }
-
     /**
      * Mint Waifu World
      */

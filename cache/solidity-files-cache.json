@@ -430,8 +430,8 @@
       ]
     },
     "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\WaifuWorld.sol": {
-      "lastModificationDate": 1632112908662,
-      "contentHash": "bc55d551a2772583f27a4da527d6cae7",
+      "lastModificationDate": 1632117011800,
+      "contentHash": "751f80a445e3ffb08d3f8c6e1b5bd62d",
       "sourceName": "contracts/WaifuWorld.sol",
       "solcConfig": {
         "version": "0.8.0",
