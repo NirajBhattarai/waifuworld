@@ -1,6 +1,6 @@
 module.exports = [
     {
-        name:"WaifuWorld",
-        symbol: "WaifuWorld"
+        name:"Metadroids",
+        symbol: "Metadroids"
     }
 ];

@@ -2,12 +2,12 @@ const hre = require("hardhat");
 
 async function main() {
 
-    const WaifuWorld = await hre.ethers.getContractFactory("WaifuWorld");
-    const deployedWaifuWorld = await WaifuWorld.deploy("WaifuWorld", "WaifuWorld");
+    const Metadroids = await hre.ethers.getContractFactory("Metadroids");
+    const deployedMetadroids = await Metadroids.deploy("Metadroids", "Metadroids");
 
-    await deployedWaifuWorld.deployed();
+    await deployedMetadroids.deployed();
 
-    console.log("Deployed Waifu Address:", deployedWaifuWorld.address);
+    console.log("Deployed Metadroids Address:", deployedMetadroids.address);
 }
 
 

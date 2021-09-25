@@ -1,7 +1,7 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\Address.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\Address.sol": {
       "lastModificationDate": 1630919958407,
       "contentHash": "37103cdc416efc2601c6f6734044b559",
       "sourceName": "contracts/Address.sol",
@@ -35,7 +35,7 @@
         "Address"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\token\\SafeERC20.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\token\\SafeERC20.sol": {
       "lastModificationDate": 1630919958443,
       "contentHash": "684a5bbd2ac3dd399dfb4fde204db000",
       "sourceName": "contracts/token/SafeERC20.sol",
@@ -72,7 +72,7 @@
         "SafeERC20"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\token\\IERC20.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\token\\IERC20.sol": {
       "lastModificationDate": 1630919958443,
       "contentHash": "eecd88e2b687e47620175f8c901bd326",
       "sourceName": "contracts/token/IERC20.sol",
@@ -106,7 +106,7 @@
         "IERC20"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\math\\SafeMath.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\math\\SafeMath.sol": {
       "lastModificationDate": 1630919958443,
       "contentHash": "3fbaecad5b2d957b57e945498dd08542",
       "sourceName": "contracts/math/SafeMath.sol",
@@ -143,7 +143,7 @@
         "SafeERC20"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\ERC721.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\ERC721.sol": {
       "lastModificationDate": 1630919958415,
       "contentHash": "1ef5905f2ca956e4e69e8fc3815d3ac2",
       "sourceName": "contracts/ERC721.sol",
@@ -185,7 +185,7 @@
         "ERC721"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\IERC721.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\IERC721.sol": {
       "lastModificationDate": 1630919958431,
       "contentHash": "bb0284c9c5077025e18a60c7031db001",
       "sourceName": "contracts/IERC721.sol",
@@ -221,7 +221,7 @@
         "IERC721"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\IERC721Receiver.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\IERC721Receiver.sol": {
       "lastModificationDate": 1630919958434,
       "contentHash": "e6d69a0b5b95ac1112eb4746a2d66f3e",
       "sourceName": "contracts/IERC721Receiver.sol",
@@ -255,7 +255,7 @@
         "IERC721Receiver"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\IERC721Metadata.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\IERC721Metadata.sol": {
       "lastModificationDate": 1630919958434,
       "contentHash": "6a9220a67c5fd3bb7d4dcedcd01f9dcc",
       "sourceName": "contracts/IERC721Metadata.sol",
@@ -291,7 +291,7 @@
         "IERC721Metadata"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\Context.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\Context.sol": {
       "lastModificationDate": 1630919958415,
       "contentHash": "bc047f55d4e6dcc5a9c7ee096f530312",
       "sourceName": "contracts/Context.sol",
@@ -325,7 +325,7 @@
         "Context"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\Strings.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\Strings.sol": {
       "lastModificationDate": 1630919958434,
       "contentHash": "e575d915a7dbf0decd510699a7fd53dc",
       "sourceName": "contracts/Strings.sol",
@@ -359,7 +359,7 @@
         "Strings"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\ERC165.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\ERC165.sol": {
       "lastModificationDate": 1630919958415,
       "contentHash": "a9a5319dff9088c6ffe757ea1c2a6729",
       "sourceName": "contracts/ERC165.sol",
@@ -395,7 +395,7 @@
         "ERC165"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\IERC165.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\IERC165.sol": {
       "lastModificationDate": 1630919958423,
       "contentHash": "9a04322bb8f6b8f2767d8358d1d2537b",
       "sourceName": "contracts/IERC165.sol",
@@ -429,10 +429,10 @@
         "IERC165"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\WaifuWorld.sol": {
-      "lastModificationDate": 1632117011800,
-      "contentHash": "751f80a445e3ffb08d3f8c6e1b5bd62d",
-      "sourceName": "contracts/WaifuWorld.sol",
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\Metadroids.sol": {
+      "lastModificationDate": 1632558720015,
+      "contentHash": "fc29a4c67afdaf5a86777e98752565d1",
+      "sourceName": "contracts/Metadroids.sol",
       "solcConfig": {
         "version": "0.8.0",
         "settings": {
@@ -468,10 +468,10 @@
         "^0.8.0"
       ],
       "artifacts": [
-        "WaifuWorld"
+        "Metadroids"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\Ownable.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\Ownable.sol": {
       "lastModificationDate": 1630919958434,
       "contentHash": "347a8ada57bddd09abd6cc033eb0d76d",
       "sourceName": "contracts/Ownable.sol",
@@ -507,7 +507,7 @@
         "Ownable"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\SafeMath.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\SafeMath.sol": {
       "lastModificationDate": 1630919958434,
       "contentHash": "9f282272a197e5e800ef035117e86f2f",
       "sourceName": "contracts/SafeMath.sol",
@@ -541,7 +541,7 @@
         "SafeMath"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\Math.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\Math.sol": {
       "lastModificationDate": 1630919958434,
       "contentHash": "3d2ae2d48d91981145a70ba4a7c2f85e",
       "sourceName": "contracts/Math.sol",
@@ -575,7 +575,7 @@
         "Math"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\EnumerableMap.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\EnumerableMap.sol": {
       "lastModificationDate": 1630919958423,
       "contentHash": "c0b43f8a087acc75648a660da90f6b03",
       "sourceName": "contracts/EnumerableMap.sol",
@@ -611,7 +611,7 @@
         "EnumerableMap"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\ERC721Enumerable.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\ERC721Enumerable.sol": {
       "lastModificationDate": 1630919958415,
       "contentHash": "113bf23e1e273624da834878126df096",
       "sourceName": "contracts/ERC721Enumerable.sol",
@@ -648,7 +648,7 @@
         "ERC721Enumerable"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\ERC1155.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\ERC1155.sol": {
       "lastModificationDate": 1630919958415,
       "contentHash": "1298d4f07f95ce54c464fe231e908a34",
       "sourceName": "contracts/ERC1155.sol",
@@ -689,7 +689,7 @@
         "ERC1155"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\EnumerableSet.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\EnumerableSet.sol": {
       "lastModificationDate": 1630919958423,
       "contentHash": "212c7600a5dc9486dc7c82a82144fb88",
       "sourceName": "contracts/EnumerableSet.sol",
@@ -723,7 +723,7 @@
         "EnumerableSet"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\IERC721Enumerable.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\IERC721Enumerable.sol": {
       "lastModificationDate": 1630919958434,
       "contentHash": "f24460c6c08657cac5fbefc1f1d68682",
       "sourceName": "contracts/IERC721Enumerable.sol",
@@ -759,7 +759,7 @@
         "IERC721Enumerable"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\IERC1155.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\IERC1155.sol": {
       "lastModificationDate": 1630919958423,
       "contentHash": "58829ab7017362bd1cc1951acc3e79a6",
       "sourceName": "contracts/IERC1155.sol",
@@ -795,7 +795,7 @@
         "IERC1155"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\IERC1155Receiver.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\IERC1155Receiver.sol": {
       "lastModificationDate": 1630919958423,
       "contentHash": "5e4ba1f0acae652381e4eb0d70a92105",
       "sourceName": "contracts/IERC1155Receiver.sol",
@@ -831,7 +831,7 @@
         "IERC1155Receiver"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\IERC1155MetadataURI.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\IERC1155MetadataURI.sol": {
       "lastModificationDate": 1630919958423,
       "contentHash": "0f8c2297305ec3388cc770324cbcd3e2",
       "sourceName": "contracts/IERC1155MetadataURI.sol",
@@ -867,7 +867,7 @@
         "IERC1155MetadataURI"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\math\\Math.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\math\\Math.sol": {
       "lastModificationDate": 1630919958443,
       "contentHash": "3d2ae2d48d91981145a70ba4a7c2f85e",
       "sourceName": "contracts/math/Math.sol",
@@ -901,7 +901,7 @@
         "Math"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\utils\\Address.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\utils\\Address.sol": {
       "lastModificationDate": 1630919958453,
       "contentHash": "728f23d54e8f1bfeac8092ab9a84178d",
       "sourceName": "contracts/utils/Address.sol",
@@ -935,7 +935,7 @@
         "Address"
       ]
     },
-    "D:\\BlockChain\\UpWork-Blockchain\\waifuworld\\contracts\\utils\\Context.sol": {
+    "D:\\BlockChain\\UpWork-Blockchain\\Metadroids\\contracts\\utils\\Context.sol": {
       "lastModificationDate": 1630919958453,
       "contentHash": "dbec7828a50c2c1a93fcc6239a861393",
       "sourceName": "contracts/utils/Context.sol",

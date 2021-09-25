@@ -20,7 +20,7 @@ module.exports = {
        gasMultiplier: 2,
     },
     rinkeby: {
-      url: "https://rinkeby.infura.io/v3/1f7482599180423b9b02ffd61886e876",
+      url: "https://rinkeby.infura.io/v3/7cd4731a3be74a6ab7c32fe799ab3177",
       accounts: ["857198dbb3f4ddfbd536444c638dbd3f64aa9a6b77978a94e4d2535af342c4dd"],
       chainId: 4,
       live: true,
